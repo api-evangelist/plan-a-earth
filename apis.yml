@@ -1,0 +1,102 @@
+aid: plan-a-earth
+name: Plan A
+description: >-
+  Plan A is a Berlin-headquartered enterprise sustainability software company,
+  founded in 2017, building an end-to-end decarbonization platform for large
+  organizations across Europe, the UK, and North America. The Plan A platform
+  combines carbon accounting (Scope 1, 2, and 3 emissions measurement aligned
+  with the GHG Protocol), regulatory reporting (CSRD / ESRS, EU Taxonomy,
+  CSDDD, UK SDR, US SEC climate disclosure, CBAM), and decarbonization
+  planning (science-based target setting, abatement modelling, and
+  forecasting). Customers include Sorare, KFC, Visa, BMW, Alphabet, and
+  Mollie, served from offices in Berlin, Paris, and London. The platform is
+  TUV Rheinland-certified and the company is a certified B Corporation. Plan
+  A markets a Carbon Scanner, a Decarbonisation Savings Calculator, an
+  Academy, a Whitepaper Centre, and a Regulation Centre as public-facing
+  surfaces; the core carbon-accounting and reporting product is sold via
+  enterprise contract and is not exposed as a public developer API. Plan A
+  references "custom APIs" for client data integration in case-study
+  material, but does not publish a developer portal, an OpenAPI specification,
+  a public SDK, or an open-source GitHub organization. There is therefore no
+  self-serve API surface to profile; this entry indexes Plan A as a
+  decarbonization-platform provider for the API Evangelist sustainability
+  landscape.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Sustainability
+  - Decarbonization
+  - Carbon Accounting
+  - Carbon Reporting
+  - Scope 1 2 3 Emissions
+  - GHG Protocol
+  - CSRD
+  - ESRS
+  - EU Taxonomy
+  - CSDDD
+  - CBAM
+  - UK SDR
+  - SEC Climate Disclosure
+  - Science Based Targets
+  - ESG
+  - Climate Tech
+  - Enterprise SaaS
+  - B Corp
+  - Berlin
+url: https://raw.githubusercontent.com/api-evangelist/plan-a-earth/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://plana.earth
+  - type: Platform
+    url: https://plana.earth/carbon-accounting-software
+  - type: CarbonAccounting
+    url: https://plana.earth/carbon-accounting
+  - type: CarbonReporting
+    url: https://plana.earth/carbon-reporting
+  - type: Decarbonization
+    url: https://plana.earth/decarbonisation
+  - type: CarbonScanner
+    url: https://plana.earth/carbon-scanner-en
+  - type: SavingsCalculator
+    url: https://plana.earth/decarbonisation-savings-calculator
+  - type: Academy
+    url: https://plana.earth/academy
+  - type: Whitepapers
+    url: https://plana.earth/whitepaper
+  - type: OnlineCourses
+    url: https://plana.earth/online-courses
+  - type: Events
+    url: https://plana.earth/events-hub
+  - type: Glossary
+    url: https://plana.earth/glossary
+  - type: RegulationCentre
+    url: https://plana.earth/policy-centre
+  - type: CSRD
+    url: https://plana.earth/csrd
+  - type: About
+    url: https://plana.earth/about
+  - type: Customers
+    url: https://plana.earth/customers
+  - type: Pricing
+    url: https://plana.earth/pricing
+  - type: Contact
+    url: https://plana.earth/contact
+  - type: Careers
+    url: https://plana.earth/careers
+  - type: Certifications
+    url: https://plana.earth/certifications
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/planaearth
+  - type: Twitter
+    url: https://twitter.com/PlanA_Earth
+  - type: YouTube
+    url: https://www.youtube.com/@planaearth
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
